@@ -1,6 +1,6 @@
-import Container from './Container';
+import Container from '../assets/Container';
 import States from './States';
-import Complain from './Complain';
+import Complain from '../assets/Complain';
 import Resolve from './Resolve';
 
 const IssueCard = ({ issues, pending, complain, resolve, resolveUpdates }) => {

@@ -1,7 +1,7 @@
 import React, { use } from 'react';
 import { useState } from 'react';
-import ManagementCard from './ManagementCard';
-import IssueCard from './IssueCard';
+import ManagementCard from '../cardComponents/ManagementCard';
+import IssueCard from '../cardComponents/IssueCard';
 import { toast } from 'react-toastify';
 const IssueManagement = ({ promise }) => {
   const data = use(promise);
