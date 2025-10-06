@@ -1,0 +1,92 @@
+[
+  {
+    "id": "TCKT-1001",
+    "title": "Login Issue",
+    "description": "User cannot log in using correct credentials.",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-01"
+  },
+  {
+    "id": "TCKT-1002",
+    "title": "Page Loading Slowly",
+    "description": "Dashboard takes too long to load.",
+    "customer": "Bob Johnson",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2025-10-01"
+  },
+  {
+    "id": "TCKT-1003",
+    "title": "Error on Checkout",
+    "description": "An error occurs when trying to complete a purchase.",
+    "customer": "Charlie Liu",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-02"
+  },
+  {
+    "id": "TCKT-1004",
+    "title": "Password Reset Not Working",
+    "description": "Reset link not being received via email.",
+    "customer": "Diana Wells",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-10-02"
+  },
+  {
+    "id": "TCKT-1005",
+    "title": "Mobile App Crash",
+    "description": "App crashes on launch for Android 13 users.",
+    "customer": "Ethan Garcia",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-03"
+  },
+  {
+    "id": "TCKT-1006",
+    "title": "Billing Issue",
+    "description": "Charged twice for the same invoice.",
+    "customer": "Fiona Patel",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2025-10-03"
+  },
+  {
+    "id": "TCKT-1007",
+    "title": "Feature Request: Dark Mode",
+    "description": "User requested dark mode support in settings.",
+    "customer": "George Kim",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-04"
+  },
+  {
+    "id": "TCKT-1008",
+    "title": "Data Sync Failure",
+    "description": "Data not syncing between web and mobile app.",
+    "customer": "Hannah Lee",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-04"
+  },
+  {
+    "id": "TCKT-1009",
+    "title": "Email Notifications Delayed",
+    "description": "System alerts arriving hours late.",
+    "customer": "Ian Martinez",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2025-10-04"
+  },
+  {
+    "id": "TCKT-1010",
+    "title": "Broken Link in Footer",
+    "description": "The 'Contact Us' link leads to a 404 page.",
+    "customer": "Julia Adams",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-10-05"
+  }
+]
